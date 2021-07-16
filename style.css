@@ -1,5 +1,5 @@
 body {
-    background-color: aquamarine;
+    background-color:honeydew;
 }
 
 p.ctext1 {
@@ -8,10 +8,12 @@ p.ctext1 {
 
 h1.title1 {
     font-size: large;
+    text-align: center;
 }
 
 #p1 {
     background-color: cyan;
+    text-align: center;
     width: 800px;
     height: 400px;
 }
