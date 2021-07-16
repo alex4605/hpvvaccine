@@ -6,6 +6,10 @@ p.ctext1 {
     color: black;
   }
 
+h1.title1 {
+    font-size: large;
+}
+
 #p1 {
     background-color: cyan;
     width: 800px;
