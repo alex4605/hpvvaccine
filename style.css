@@ -1,13 +1,13 @@
 body {
-    background-color:honeydew;
+    background-color: honeydew;
 }
 
 p.ctext1 {
     color: black;
   }
 
-h1.title1 {
-    font-size: large;
+.title1 {
+    font-size: 40px;
     text-align: center;
 }
 
