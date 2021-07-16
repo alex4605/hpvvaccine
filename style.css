@@ -2,18 +2,19 @@ body {
     background-color: honeydew;
 }
 
-p.ctext1 {
+h1 {
     color: black;
-  }
-
-.title1 {
-    font-size: 40px;
+    font-size: 100px;
     text-align: center;
 }
 
-#p1 {
-    background-color: cyan;
-    text-align: center;
-    width: 800px;
-    height: 400px;
+p {
+     color: black; 
+     background-color: lightskyblue;
+     width: 70%;
+     height: 400px;
+     font-size: 25px;
+     box-sizing: content-box;
+     margin-left: auto;
+     margin-right: auto;
 }
