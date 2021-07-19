@@ -9,21 +9,28 @@
 }
 
 .navbar {
+    box-sizing: border-box;
+    border: 2px;
     color: white;
     text-align: center;
     text-decoration: none;
-    display: inline; 
+    display: inline-block; 
+    padding: 14px 16px;
+}
+
+.navbar:hover {
+    background-color: aqua;
 }
 
 body {
     background-color: honeydew;
-    font-size: 16px;
+    font-size: 24px;
     font-family: 'Noto Sans TC', sans-serif;
 }
 
 h1 {
     color: black;
-    font-size: 100px;
+    font-size: 70px;
     text-align: center;
 }
 
