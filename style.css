@@ -9,10 +9,11 @@
 }
 
 #navbarlogo {
-    background-image: url("kmu_logo.png");
+    background-image: url("hpvaxicon.png");
+    background-size: 200px;
     float:left;
-    height: 100px;
-    width: 100px;
+    width: 200px;
+    height: 200px;
     margin-top: 10px;
     margin-left: 10px
 }
