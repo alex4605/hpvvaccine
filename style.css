@@ -9,9 +9,12 @@
 }
 
 #navbarlogo {
+    background-image: url("kmu_logo.png");
     float:left;
     height: 100px;
     width: 100px;
+    margin-top: 10px;
+    margin-left: 10px
 }
 
 .navbar {
