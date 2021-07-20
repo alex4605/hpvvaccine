@@ -1,7 +1,7 @@
 #navbartop {
     list-style-type: none;
     background-color: black;
-    text-align: center;
+    text-align: right;
     border-radius: 0;
     border: 0px;
     margin: 0;
@@ -10,10 +10,12 @@
 
 #navbarlogo {
     background-image: url("hpvaxicon.png");
-    background-size: 200px;
-    float:left;
-    width: 200px;
-    height: 200px;
+    background-size: 150px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 150px;
+    height: 150px;
     margin-top: 10px;
     margin-left: 10px
 }
