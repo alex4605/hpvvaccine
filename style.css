@@ -55,11 +55,14 @@ h1 {
 p {
      color: black; 
      background-color: lightskyblue;
-     width: 800px;
-     height: 800px;
+     width: 2000px;
      font-size: 20px;
      box-sizing: border-box;
      border-radius: 20px;
+     padding-top: 80px;
+     padding-left: 40px;
+     padding-right: 40px;
+     padding-bottom: 20px;
      margin-left: auto;
      margin-right: auto;
 }
